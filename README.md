@@ -3,7 +3,7 @@ Openstack Auto Backup
 
 ## Description
 
-This python script provide a function of instance auto backup.
+This python script provides instance auto backup functionality.
 
 ## Quick start
 
@@ -17,4 +17,4 @@ This python script provide a function of instance auto backup.
 
 ## Limitation
 
-- It is not consider Volume attach/detach.
+- Does not consider Volume attach/detach.
